@@ -1,4 +1,4 @@
-//Check If Digits Are Equal in String After Operations I
+//3461. Check If Digits Are Equal in String After Operations I
 class Solution {
 public:
     bool hasSameDigits(string s) {
